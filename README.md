@@ -19,7 +19,7 @@ openframeworks 0.11.0
 settings.setInDevice(devices['任意のデバイスを表す整数']);
 ```
 ## Mouse
-- ドラッグでモデル回転、拡大縮小
+- ドラッグでカメラ回転、拡大縮小
 - 'lightDir'で平行光源のベクトルを操作
 - 'effect'で変化の具合を調整
 - 'bgColor'で背景色を操作
