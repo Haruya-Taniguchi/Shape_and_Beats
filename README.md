@@ -38,6 +38,6 @@ settings.setInDevice(devices['任意のデバイスを表す整数']);
   - 'd' オリジナルのシェーディング1　<-推奨
   - 'e' オリジナルのシェーディング2　<-推奨かつデフォルト
 ## Video
-https://www.youtube.com/watch?v=mVSkSAn9soE
-https://www.youtube.com/watch?v=Y_CtwJTsUFc
-https://www.youtube.com/watch?v=WimpGQmt3lU
+https://www.youtube.com/watch?v=mVSkSAn9soE  
+https://www.youtube.com/watch?v=Y_CtwJTsUFc  
+https://www.youtube.com/watch?v=WimpGQmt3lU  
