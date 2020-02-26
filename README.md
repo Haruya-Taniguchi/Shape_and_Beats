@@ -26,7 +26,7 @@ settings.setInDevice(devices['任意のデバイスを表す整数']);
 - 'vertColor'で表示する図形の色を操作
 ### Keyboard
 - 数字キーで表示する図形の変更
-  - '0' ウサギの3dモデル
+  - '0' スタンフォードバニー
   - '1' ofSpherePrimitive
   - '2' ofIcoSpherePrimitive
   - '3' ofCylinderPrimitive
